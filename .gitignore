@@ -1,3 +1,6 @@
+Rebetika/
+distilhubert-finetuned-rebetika_voice/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

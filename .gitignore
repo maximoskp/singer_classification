@@ -1,13 +1,13 @@
 Rebetika/
 Rebetika_whole/
 Rebetika_2sec/
+Rebetika_2sec_full/
 Rebetika_vowels/
 
 distilhubert-finetuned-rebetika_voice/
 distilhubert-finetuned-2sec_voice/
 distilhubert-finetuned-rebetika_voice/
 distilhubert-finetuned-vowels_voice/
-
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
